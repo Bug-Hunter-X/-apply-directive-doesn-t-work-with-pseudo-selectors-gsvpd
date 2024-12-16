@@ -1,0 +1,1 @@
+Instead of using `@apply` with pseudo-selectors, apply the styles directly using the corresponding classes without the `@apply` directive.  For example, instead of `@apply hover:bg-blue-500`, use `<button class="hover:bg-blue-500">`.
